@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I write code and share ideas
 <!--
 **Dave-mash/Dave-mash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
